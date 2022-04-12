@@ -1,6 +1,9 @@
 PySpark MLlib: built-in library for scalable machine learning
+
 **ML Algorithms**: collaborative filtering, classification, and clustering
+
 **Featuriation**: feature extraction, transformation, dimensionality reduction and selection
+
 **Pipelines**: tools for constructing, evaluating and tuning ML pipelines
 
 
