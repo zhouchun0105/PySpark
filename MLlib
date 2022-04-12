@@ -1,0 +1,8 @@
+# collaborative filtering
+from pyspark.mllib.recommendation import ALS
+
+# classification
+from pyspark.mllib.classification import LogisticRegressionWith LBFGS
+
+# clustering
+from pyspark.mllib.clustering import KMeans
